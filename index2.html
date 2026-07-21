@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form action="#"  method="post">
+
+        <div>
+
+            <label for="first-name">First Name : * </label>
+            <input type="text" id="first-name" placeholder="First name">
+    
+        </div>
+
+        <br>
+
+        <div>
+            <label for="last-name"> Last Name : * </label>
+            <input type="text" id="last-name" placeholder="Enter your last name">
+     
+        </div>
+
+        <br>
+
+        <div>
+
+            <label for="email">Email Address : * </label>
+            <input type="email" id="email" placeholder="Enter your Email">
+     
+            
+        </div>
+
+        <br>
+
+        <div>
+          
+            <label for="password">Password : * </label>
+            <input type="password" id="password" placeholder="Enter your password">
+       
+        </div>
+
+        <br>
+
+        <div>
+            <label for="confirm-password">Confirm Password  : * </label>
+            <input type="password" id="confirm-password" placeholder="Enter your confirm password">
+       
+        </div>
+
+        <br>
+
+        <div>
+
+            <label for = "dob">Birthday: * </label>
+            <input type="date" id="dob" >
+       
+        </div>
+
+        <br>
+
+        <div>   
+       
+            <label >  Gender Identify :  </label>
+      
+        </div>
+
+        <br>
+
+        <div>   
+             
+            <input type="radio" name="gender" id="female" value="female">
+            <label for="female" >Female</label> 
+
+            <input type="radio" name="gender" id="male" value="male">
+            <label for="male">Male</label>
+            <input type="radio" name="gender" id="non-binary" value="non-binary">
+            <label for ="non-binary" >Non-binary</label> 
+
+            <input type="radio" name="gender" id="not-answer" value="not-answer">
+            <label for ="not-answer" >I prefer not to answer</label> 
+       
+       </div>
+       
+       <br>
+
+       <div>
+
+            <label for ="planguages" > Favorite  language  </label>
+
+            <select name="planguages" id="planguages">
+
+            <option value="java"> java</option>     
+            <option value="python"> python</option>
+            <option value="C++"> C++</option>
+            <option value="C"> C</option>
+            </select>
+
+        </div>
+
+        <br>
+
+        <div>
+        
+            <label for ="comment">A short description abot my self : </label>
+
+        </div>
+
+        <br>
+
+        <div>
+
+            <textarea name="comment" id="comment" cols="30" rows="3" placeholder="Enter your comment ..."></textarea>
+       
+        </div>
+
+        <br>
+
+        <div>
+
+            <p>
+                <input type="checkbox" id="updates" name="updates">
+                <label for="updates"> Yes , I would like to  periodic email updates</label>
+            </p>
+
+        </div>
+    
+        <br>
+        
+        <div>
+            <button type="submit">Create Account</button>   
+            
+        </div>
+
+    </form>
+</body>
+</html>
