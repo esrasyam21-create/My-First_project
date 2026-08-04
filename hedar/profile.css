@@ -1,0 +1,48 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+nav{
+    background-color:rgb(78, 78, 78);
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+    margin: 7px;
+    padding: 7px;
+}
+h2{
+    margin: 0;
+    padding: 5px;
+}
+
+a{
+    color: rgb(184, 186, 188);
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+.links{
+    color:rgb(157, 155, 155);
+    justify-content: space-between;
+    display: flex;
+    margin: 0 2px;
+}
+#my-profile{
+    color:#ffffff;
+}
+button{
+    color: aliceblue;
+    background-color: #008cff;
+    padding: 5px;
+    border: 2px solid #000000;
+    box-shadow: 2px 2px  #050308;
+    margin:5px;
+}
+
+

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(102, 255, 0);
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+.container{
+    display: block;
+    margin: 50px;
+
+}
+.first{
+    background-color: aquamarine; 
+    width:100%;
+    margin: 10px;
+    display:flex;
+    justify-content:space-around ;
+}
+.second{
+    background-color: gold;
+    width: 100%;
+    margin: 10px;
+    display:flex;
+    justify-content: center;
+}
+.third{
+    background-color:rgb(111, 0, 255) ;
+    width: 100%;
+    margin: 2px;
+    padding: 2px;
+    display:flex;
+    justify-content:space-between;
+}
