@@ -1,0 +1,16 @@
+img{
+    width: 40%;
+    height: 40%;
+}
+#my_bth{
+    margin: 100px;
+    padding: 20px;
+}
+button{
+    
+
+    display: block;
+    margin: 90px;
+    background-color: #0578bb;
+    color:rgb(0, 0, 0)
+}

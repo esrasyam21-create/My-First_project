@@ -1,0 +1,158 @@
+int-num =5;
+var num =5
+let num =5
+const num =5
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>titel java secrebt</title>
+    <link rel="stylesheet" href="iphone.css">
+</head>
+<body>
+<button id="my-btn" an>Welcome To JS</button>
+
+
+
+
+
+const constantvalubel;
+let changvalubel;
+var underfindvalubel;
+let changvalubel=9
+var underfindvalubel=7
+conslole.log(underfindvalubel)
+conslole.log(let changvalubel)
+conslole.log(constantvalubel)
+
+conslole.log(5==5)tru
+conslole.log(5=="5")tru
+conslole.log(5===5)tru
+conslole.log(1==true)tru
+conslole.log(5==="5")fol
+conslole.log(5===true)fol
+
+conslole.log(10+20+"is 30")30 is 30
+conslole.log(10+"20")
+conslole.log(constantvalubel)
+
+let n=undefined
+let n=NaN
+
+if(nun == 5){
+
+num+=7"
+alse if (num =8)
+}
+
+
+for(len i=1 ;i<21 ;<i++){
+    if(i %2 !=0)
+    consloe.log(i);
+}
+
+for(len i=0 ; i<21 ;<i+=2){
+    if(i %2 !=0)
+    consloe.log(i);
+}
+for(len i=100 ;i>-1 ;<i--){
+    if(i %3 == 0)
+    consloe.log(i);
+
+}
+
+for(len i=4 ; i>=3.5 ;<i-=1.5){
+    consloe.log(i);
+}
+
+let  sum =0 
+for (let i=1 ;i<101 ;i++)
+sum+=i;
+ consloe.log("The sum is ",sum);
+
+let  factoial=1 
+for (let i=1 ;i<13 ;i++)
+    factoial*=i;
+ consloe.log("The factoial is ",factoial);
+
+
+ 
+
+document.querySlector("")
+
+
+
+for(let i=1 ;i<21 ;i++){
+    if(i %2 !=0)
+    console.log(i)
+
+}
+
+for(let i=0 ; i<21 ;i+=2){
+    if(i %2 !=0)
+    console.log(i);
+}
+for(let i=100 ;i>-1 ;i--){
+    if(i %3 == 0)
+    console.log(i);
+
+}
+
+for(let i=4 ; i>=3.5 ;i-=1.5){
+    consoe.log(i);
+}
+
+let  sum =0 
+for (let i=1 ;i<101 ;i++)
+sum+=i;
+ console.log("The sum is ",sum);
+
+let  factoial=1 
+for (let i=1 ;i<13 ;i++)
+    factoial*=i;
+ console.log("The factoial is ",factoial);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
